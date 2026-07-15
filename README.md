@@ -23,13 +23,6 @@ TR2013-Simplified-Chinese.zip
 > 请下载 Release 页面中单独提供的 `TR2013-Simplified-Chinese.zip`。GitHub 自动生成的
 > `Source code (zip)` 和 `Source code (tar.gz)` 不是可安装的 MOD。
 
-v7.5 正式包：
-
-```text
-大小：588,470,945 字节（561.21 MiB）
-SHA-256：578F490AE9C95685DAA88C8030FA78B00675285AD8E7941DE3D8FD5576CBFECC
-```
-
 ## Overview / 简介
 
 本 MOD 为《Tomb Raider (2013) / 古墓丽影（2013）》制作完整简体中文翻译，覆盖
