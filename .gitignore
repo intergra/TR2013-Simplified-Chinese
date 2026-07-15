@@ -1,9 +1,0 @@
-# Release archives are uploaded as GitHub Release assets, not committed to Git.
-TR2013-Simplified-Chinese.zip
-*.zip
-
-# Local and operating-system files.
-Thumbs.db
-Desktop.ini
-*.tmp
-*.log
