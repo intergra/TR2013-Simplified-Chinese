@@ -6,6 +6,8 @@
 
 **完整简体中文翻译 MOD，覆盖菜单、界面、字幕、过场动画、收集品文本及中文字体资源。**
 
+<img src="png/古墓丽影9简体中文.png" alt="《古墓丽影（2013）》简体中文翻译 MOD 展示图" width="900">
+
 </div>
 
 ## 下载
@@ -35,9 +37,9 @@ TR2013-Simplified-Chinese.zip
 润色、仪式台词重译和繁中口吻清理等方面。
 
 本 MOD 同时从官方原始资源重建游戏使用的中文字体。主字体采用 Noto Sans SC / 思源
-黑体简体，并以 Noto Sans KR 限定补入韩文玩家名。v7.5 除菜单、HUD、字幕和文档外，
-还审计多人动态玩家名中的扩展拉丁、希腊、西里尔、日文、中文和韩文，解决旧字体把
-大量字符显示成“口”或“□”的问题。
+黑体简体，并以 Noto Sans KR 限定补入韩文玩家名。字体覆盖同时考虑菜单、HUD、字幕、
+文档及多人动态玩家名中的扩展拉丁、希腊、西里尔、日文、中文和韩文，避免旧字体把
+大量字符显示成“口”或“□”。
 
 本 MOD 采用官方 `zhhant` 中文槽位资源覆盖：
 
@@ -53,7 +55,7 @@ TR2013-Simplified-Chinese.zip
 2. 本 MOD 不会新增独立的“简体中文”语言选项，而是替换游戏原有的中文本地化资源。
 3. 如果游戏语言未设置为中文，简体中文翻译不会生效。
 4. 前置工具为 [TR2013 Modding Tools / Tomb Raider (2013) Mod Manager](https://www.nexusmods.com/tombraider2013/mods/112?tab=files&show_file=442)
-   **1.10.0**。当前正式发布包只面向 1.10.0 构建与测试，请勿使用 1.11.0 安装本包。
+   **1.10.0**。正式发布包只面向 1.10.0 构建与测试，请勿使用 1.11.0 安装本包。
 5. 如果 Nexus 下载页面提示 `additional file required`，请先下载并安装该前置工具。
 6. 本 MOD 不包含游戏本体，使用前必须拥有并安装正版游戏。
 
@@ -187,9 +189,9 @@ TR2013-Simplified-Chinese.zip
 韩文动态玩家名采用 Noto Sans KR Bold 700 限定补字。每次构建都从官方原始 DTP 开始，
 不在旧字体成品上继续叠加补丁。
 
-最终字体包含 42,689 个字形；静态文本、多人固定字幕和 40,230 个多人动态码位审计
-均为 0 缺字。手柄图标由游戏引擎渲染，不会被误替换成普通字形。ZIP 内附带两套字体
-的 OFL 许可证与来源说明；Mod Manager 不会将这些许可证文件安装进游戏目录。
+字体构建会检查静态文本、多人固定字幕和多人动态玩家名所需码位，避免已知字符缺失。
+手柄图标由游戏引擎渲染，不会被误替换成普通字形。ZIP 内附带两套字体的 OFL 许可证
+与来源说明；Mod Manager 不会将这些许可证文件安装进游戏目录。
 
 ### 10. 术语统一与文本一致性
 
@@ -278,7 +280,7 @@ TR2013-Simplified-Chinese.zip
 - 如果安装后仍显示英文或其他语言，请先检查游戏语言设置是否为中文。
 - 如果曾手动删除 `.tiger` 文件或使用过不同版本 Mod Manager，建议通过 Steam 验证
   游戏文件完整性后再安装。
-- 当前正式发布包按 Mod Manager 1.10.0 制作与测试，不提供 1.11.0 适配包。
+- 正式发布包按 Mod Manager 1.10.0 制作与测试，不提供 1.11.0 适配包。
 - 本 MOD 不建议与其他中文字体、中文文本或字幕类 MOD 同时安装，因为它们可能覆盖
   同一批资源。
 - 压缩包体积和安装后的 MOD 归档体积不一定一致，这是 Mod Manager 应用差分补丁后的
@@ -297,7 +299,7 @@ TR2013-Simplified-Chinese.zip
 
 - 先通过 Mod Manager 正常卸载相关 MOD，不要手动删除仍在使用的 `.tiger` 文件。
 - 通过 Steam 验证游戏文件完整性。
-- 使用 Mod Manager 1.10.0，在干净状态下重新安装 v7.5 正式 ZIP。
+- 使用 Mod Manager 1.10.0，在干净状态下重新安装最新正式 Release 提供的 ZIP。
 - 若仍能稳定复现，请反馈游戏平台、MOD 版本、ZIP SHA-256、Mod Manager 版本、其他
   已安装 MOD，以及完整错误信息或截图。
 
@@ -318,6 +320,27 @@ ZIP 根目录，仓库说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
 
 本仓库没有使用 MIT、GPL 等许可证对全部内容统一再授权，详情见
 [LICENSE.md](LICENSE.md)。
+
+项目的版本开发周期、提交授权、README 与 Release 内容边界及正式 Release 冻结规则，
+见 [VERSIONING.md](VERSIONING.md)。
+
+## Support / 赞赏支持
+
+如果这个项目对您有所帮助，欢迎自愿赞赏支持。您的每一份支持，都是我继续维护和
+完善翻译的动力。
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="png/donation-alipay.jpg" alt="支付宝赞赏码" width="360"><br>
+      <strong>支付宝赞赏</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="png/donation-wechat.png" alt="微信赞赏码" width="360"><br>
+      <strong>微信赞赏</strong>
+    </td>
+  </tr>
+</table>
 
 ## Feedback / 反馈与说明
 
