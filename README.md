@@ -64,7 +64,7 @@ TR2013-Simplified-Chinese.zip
 压缩包内主要包含：
 
 - 1 个主本地化文本文件：`pc-w/local/locals.bin/zhhant.json`
-- 2,759 个 `.ips32` 差分补丁和 800 个必要的 `.mul` 字幕流资源
+- `.ips32` 差分补丁和必要的 `.mul` 字幕流资源；具体数量以对应 Release 附件为准
 - 11 个 `.sch` 外部影片字幕文件
 - 2 个 `.tr9dtp` 资源：中文字体与字幕背景 UI
 - Noto Sans SC / KR 相关许可证与来源说明，共 4 个 `.txt`
