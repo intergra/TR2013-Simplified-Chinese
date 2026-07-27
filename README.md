@@ -318,8 +318,13 @@ ZIP 根目录，仓库说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
 非商业的玩家制作项目，与游戏开发商、发行商及相关权利人没有隶属或认可关系。使用
 本 MOD 必须拥有通过合法渠道取得的游戏副本。
 
-本仓库没有使用 MIT、GPL 等许可证对全部内容统一再授权，详情见
-[LICENSE.md](LICENSE.md)。
+本 MOD 允许他人免费、非商业地转载、镜像和提供完整发布包下载，也允许纳入免费的修改版、衍生版本
+或整合包中再分发。传播时必须保留作者“`NoWindNoMoon / 此情无关风月`”、项目名称、许可证、来源
+链接、第三方权利声明和非官方项目说明；修改版、衍生版本或整合包还必须明确标注修改、增补、替换
+或移除的内容。禁止出售、收费分发或冒充作者及官方项目。
+
+本仓库没有使用 MIT、GPL 等许可证对全部内容统一再授权，完整条件见 [LICENSE.md](LICENSE.md)。
+字体内容继续适用 SIL Open Font License 1.1，具体说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
 项目的版本开发周期、提交授权、README 与 Release 内容边界及正式 Release 冻结规则，
 见 [VERSIONING.md](VERSIONING.md)。
