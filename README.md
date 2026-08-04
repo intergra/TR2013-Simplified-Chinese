@@ -141,6 +141,10 @@ TR2013-Simplified-Chinese.zip
 - `Climbing Axe` → “攀爬斧”
 - `Pain Tolerance` → “耐痛强化”
 - `Marksman Rifle` → “射手步枪”
+- `Match Grade Barrel` → “精密枪管”
+- `Napalm Arrows` → “汽油箭”
+- `Alt fire` → “副射击”
+- `Collateral Damage` → “误伤同伴”
 - `accuracy` → “精度”
 
 教程、连杀提示、终结技说明和按键映射提示等均按实际玩法翻译，避免“地面攀爬”
