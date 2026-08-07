@@ -64,10 +64,12 @@ TR2013-Simplified-Chinese.zip
 压缩包内主要包含：
 
 - 1 个主本地化文本文件：`pc-w/local/locals.bin/zhhant.json`
+- 1 个事件字幕文件：`pc-w/audio/streams/event/hub/distant_gunfire_02.json`
 - `.ips32` 差分补丁和必要的 `.mul` 字幕流资源；具体数量以对应 Release 附件为准
 - 11 个 `.sch` 外部影片字幕文件
 - 2 个 `.tr9dtp` 资源：中文字体与字幕背景 UI
 - Noto Sans SC / KR 相关许可证与来源说明，共 4 个 `.txt`
+- 1 个项目许可文件：`LICENSE.md`
 
 本 MOD 不包含游戏本体文件、可执行程序、DLL、脚本或额外启动器。
 
@@ -99,8 +101,9 @@ TR2013-Simplified-Chinese.zip
 
 ### 2. 游戏内对白与字幕
 
-覆盖 `pc-w/audio/streams/vo/` 下与中文语言相关的语音流字幕。整体字幕审校快照包含
-6,111 条字幕记录，发布包按安全策略拆分为差分补丁与必要的完整流资源，包括：
+覆盖 `pc-w/audio/streams/vo/` 下与中文语言相关的语音流字幕，包含游戏内大量剧情、
+环境、战斗、无线电、收集品朗读和多人模式字幕。发布包按安全策略拆分为差分补丁与必要的
+完整流资源，包括：
 
 - 主线剧情对白
 - 支线与环境对话
@@ -206,7 +209,7 @@ TR2013-Simplified-Chinese.zip
 - `Gondola Transport` → “运输缆车”
 - `Hall of Ascension` → “登基大殿”
 - `Shanty Town` → “贫民窟”
-- `Stormguard General` → “风暴将军”
+- `Stormguard General` → “风暴卫士将军”
 - `Gas Can` → “汽油桶”；气体语境使用“燃气”
 - `Solarii Brotherhood` → “索拉瑞兄弟会”
 - `Ritual of Flames` → “火祭仪式”
