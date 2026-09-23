@@ -1,56 +1,53 @@
 # 第三方许可说明
 
-本 MOD 的中文字体资源包含由以下开放字体生成的字形轮廓。
+本 Mod 的中文字体资源包含由以下开放字体生成的字形轮廓。字体及其衍生内容不适用本项目的
+自定义许可，而是继续分别遵循 SIL Open Font License 1.1。
 
 ## Noto Sans SC
 
-- 使用字重：Bold 700
-- 来源：[Google Fonts - Noto Sans SC](https://github.com/google/fonts/tree/main/ofl/notosanssc)
-- 字体版权：Copyright 2014-2021 Adobe (http://www.adobe.com/)
-- 保留字体名称：`Source`
-- 许可证：SIL Open Font License 1.1
+- 使用来源：Google Fonts 提供的 Noto Sans SC Variable TTF；源 TTF 仅作为构建输入，不随 Mod 安装包分发。
+- 实际字重：Bold 700。
+- 用途：作为《Tomb Raider》（2013）重建中文字体资源的主要字形来源，用于简体中文界面、字幕、文档及相关可见文字。
+- 字体版权：Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+- 许可证：SIL Open Font License 1.1。
+- 上游项目：https://github.com/google/fonts/tree/main/ofl/notosanssc
 
 ## Noto Sans KR
 
-- 使用字重：Bold 700
-- 用途：限定补充韩文多人玩家名所需字形
-- 来源：[Google Fonts - Noto Sans KR](https://github.com/google/fonts/tree/main/ofl/notosanskr)
-- 字体版权：Copyright 2014-2021 Adobe (http://www.adobe.com/)
-- 保留字体名称：`Source`
-- 许可证：SIL Open Font License 1.1
+- 使用来源：Google Fonts 提供的 Noto Sans KR Variable TTF；源 TTF 仅作为构建输入，不随 Mod 安装包分发。
+- 实际字重：Bold 700。
+- 用途：仅补充多人模式中韩文玩家名所需的字形，不作为中文主字体使用。
+- 字体版权：Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+- 许可证：SIL Open Font License 1.1。
+- 上游项目：https://github.com/google/fonts/tree/main/ofl/notosanskr
 
-## OFL 1.1 适用说明
+## 成品许可文件
 
-Noto Sans SC、Noto Sans KR 及由其字形生成的字体衍生内容继续遵循
-[SIL Open Font License 1.1 官方英文文本](https://openfontlicense.org/open-font-license-official-text/)。
-
-OFL 1.1 允许在满足其全部条件时使用、研究、复制、合并、嵌入、修改、再分发及销售
-修改或未修改的字体软件。主要条件包括：
-
-- 字体软件或其单独组件不得被单独出售；
-- 再分发时必须保留适用的版权声明和 OFL 许可证；
-- 未经相应权利人明确许可，修改版不得使用适用的保留字体名称；
-- 字体权利人或作者的名称不得被用于为修改版背书或宣传；
-- 字体及其衍生内容必须继续在 OFL 1.1 下发布，不得改用其他许可证。
-
-以上中文内容仅用于帮助识别许可边界，不替代官方英文许可证。正式发布 ZIP 根目录
-包含完整的人类可读版权声明和英文许可证：
+正式 Mod 文件夹与 ZIP 的 `licenses/` 目录必须包含：
 
 ```text
-NotoSansSC-NOTICE.txt
-NotoSansSC-OFL.txt
-NotoSansKR-NOTICE.txt
-NotoSansKR-OFL.txt
+licenses/LICENSE.md
+licenses/THIRD_PARTY_NOTICES.md
+licenses/NotoSansSC-COPYRIGHT.md
+licenses/NotoSansSC-OFL.md
+licenses/NotoSansKR-COPYRIGHT.md
+licenses/NotoSansKR-OFL.md
 ```
 
-MOD 中生成的 Tomb Raider 字体资源属于修改并嵌入后的衍生内容，不是 Google、Adobe、
-Noto 或 Tomb Raider 官方发布的字体产品。
+两种实际使用的 OFL 字体分别具有同名前缀的版权声明和完整许可证，不得合并为通用许可文件。
 
-发布原始 MOD 或包含原始 MOD 的整合包时，涉及上述字体的版权声明、来源说明和 OFL 1.1 许可证文件必须继续随包保留。
-本项目的自定义非商业传播条件仅适用于作者自行创作且依法可以主张权利的内容，不覆盖、限制或缩减
-OFL 1.1 已授予的字体权利。字体自身可以在遵守 OFL 1.1 全部条件的前提下修改和再分发，但这不授权
-修改、替换、移除或发布项目原创 Mod 内容的修改版。包含本 MOD 的发布包仍不得收费。
+## 许可边界
 
-仓库的自定义使用声明不覆盖或缩减 OFL 1.1 已授予的字体权利。如
-[LICENSE.md](LICENSE.md) 与适用于字体内容的 OFL 1.1 存在冲突，以 OFL 1.1 官方英文
-文本为准；除明确标注的字体内容外，仓库其他内容不因本文件而自动适用 OFL。
+Mod 中生成的 Tomb Raider 字体资源属于修改并嵌入后的字体衍生内容，不是 Google、Adobe、
+Noto 或 Tomb Raider 官方发布的字体产品。字体及其衍生内容继续遵循 SIL Open Font License
+1.1；除明确标注的字体相关部分外，本仓库和 Mod 的其他内容不因此自动适用 OFL。
+
+“Source”是上述字体版权声明中的保留字体名称。未经相应权利人明确许可，修改版字体不得使用
+该保留名称。本项目名称和说明仅用于识别非官方玩家 Mod，不表示 Google、Adobe、Noto、
+游戏开发商、发行商或其他权利人认可、赞助或为本项目背书。
+
+本项目的自定义许可不得覆盖、限制或缩减 OFL 1.1 已经授予的字体权利。如项目许可与适用于
+字体内容的 OFL 1.1 存在冲突，以对应的完整英文 OFL 文本为准。
+
+SIL Open Font License 1.1 官方文本：
+https://openfontlicense.org/open-font-license-official-text/
