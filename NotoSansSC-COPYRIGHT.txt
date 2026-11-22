@@ -9,7 +9,7 @@ primary glyph source for the rebuilt Chinese font resource used by Tomb Raider
 The source variable font was obtained from the official Google Fonts repository.
 
 Licensed under the SIL Open Font License, Version 1.1.
-See NotoSansSC-OFL.md in this folder.
+See NotoSansSC-OFL.txt in this folder.
 
 The generated Tomb Raider font resource is a modified and embedded derivative.
 It is not an official Google, Adobe, Noto, or Tomb Raider font release.

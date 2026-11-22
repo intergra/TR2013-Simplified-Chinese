@@ -83,7 +83,7 @@ Release 提供的安装 ZIP 包含 Mod Manager 可识别的本地化文本、游
 外部影片字幕、中文字体和相关许可文件。
 
 安装包不包含游戏本体、Mod Manager、可执行程序、DLL、启动器或注入组件。字体版权与许可证
-可在本仓库的 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 及对应字体文件中直接查阅。
+可在本仓库的 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt) 及对应字体文件中直接查阅。
 
 ## Recommended Environment / 推荐环境
 
@@ -129,6 +129,7 @@ Release 提供的安装 ZIP 包含 Mod Manager 可识别的本地化文本、游
 ## Compatibility / 兼容性说明
 
 - 本 Mod 只面向 Windows Steam 版；其他商店、平台或修改过的游戏版本未经过同等验证。
+- 无论是否安装 Steam 的日文语言包 DLC（*Tomb Raider: Japanese Language Pack*），均可直接使用同一份安装包，无需额外下载任何 DLC。
 - 本 Mod 会覆盖中文槽中的文本、字幕和字体资源，与修改相同内容的 Mod 可能发生冲突。
 - 本 Mod 不修改关卡流程、角色属性、敌人 AI、武器数值、配音、音乐或存档结构。
 - 游戏或 Mod Manager 更新后，如果资源处理方式发生变化，需要重新确认兼容性。
@@ -163,14 +164,14 @@ Release 提供的安装 ZIP 包含 Mod Manager 可识别的本地化文本、游
 
 **韩文玩家名补字：** Noto Sans KR Bold 700
 
-本仓库采用 [权利与使用声明](LICENSE.md)。字体及其衍生内容继续遵循
+本仓库采用 [权利与使用声明](LICENSE)。字体及其衍生内容继续遵循
 SIL Open Font License 1.1；完整来源、版权和许可边界见：
 
-- [第三方许可说明](THIRD_PARTY_NOTICES.md)
-- [Noto Sans SC 版权声明](NotoSansSC-COPYRIGHT.md)
-- [Noto Sans SC OFL 1.1](NotoSansSC-OFL.md)
-- [Noto Sans KR 版权声明](NotoSansKR-COPYRIGHT.md)
-- [Noto Sans KR OFL 1.1](NotoSansKR-OFL.md)
+- [第三方许可说明](THIRD_PARTY_NOTICES.txt)
+- [Noto Sans SC 版权声明](NotoSansSC-COPYRIGHT.txt)
+- [Noto Sans SC OFL 1.1](NotoSansSC-OFL.txt)
+- [Noto Sans KR 版权声明](NotoSansKR-COPYRIGHT.txt)
+- [Noto Sans KR OFL 1.1](NotoSansKR-OFL.txt)
 
 游戏名称、商标和原始游戏资产归各自权利人所有。本 Mod 是非官方、非商业的玩家制作项目，
 与游戏开发商、发行商、平台方及字体权利人没有隶属、认可或赞助关系。
